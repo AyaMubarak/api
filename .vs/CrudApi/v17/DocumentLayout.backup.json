@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayagm\\source\\repos\\CrudApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF8D73-D1BB-47A4-BA81-68DF7DCA2EA0}|CrudApi\\CrudApi.csproj|c:\\users\\ayagm\\source\\repos\\crudapi\\crudapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF8D73-D1BB-47A4-BA81-68DF7DCA2EA0}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF8D73-D1BB-47A4-BA81-68DF7DCA2EA0}|CrudApi\\CrudApi.csproj|c:\\users\\ayagm\\source\\repos\\crudapi\\crudapi\\dtos\\department\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF8D73-D1BB-47A4-BA81-68DF7DCA2EA0}|CrudApi\\CrudApi.csproj|solutionrelative:crudapi\\dtos\\department\\getdepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\CrudApi\\CrudApi\\DTOs\\Department\\GetDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CrudApi\\DTOs\\Department\\GetDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\CrudApi\\CrudApi\\DTOs\\Department\\GetDepartmentDTO.cs",
+              "RelativeToolTip": "CrudApi\\DTOs\\Department\\GetDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:00:39.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\ayagm\\source\\repos\\CrudApi\\CrudApi\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "CrudApi\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\ayagm\\source\\repos\\CrudApi\\CrudApi\\Controllers\\DepartmentController.cs*",
+              "RelativeToolTip": "CrudApi\\Controllers\\DepartmentController.cs*",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAYwHgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:50:18.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
